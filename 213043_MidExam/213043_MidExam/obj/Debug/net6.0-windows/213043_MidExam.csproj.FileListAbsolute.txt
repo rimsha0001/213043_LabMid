@@ -1,0 +1,17 @@
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\bin\Debug\net6.0-windows\213043_MidExam.exe
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\bin\Debug\net6.0-windows\213043_MidExam.deps.json
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\bin\Debug\net6.0-windows\213043_MidExam.runtimeconfig.json
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\bin\Debug\net6.0-windows\213043_MidExam.dll
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\bin\Debug\net6.0-windows\213043_MidExam.pdb
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.csproj.AssemblyReference.cache
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\_213043_MidExam.Form1.resources
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.csproj.GenerateResource.cache
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.AssemblyInfoInputs.cache
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.AssemblyInfo.cs
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.csproj.CoreCompileInputs.cache
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.dll
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\refint\213043_MidExam.dll
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.pdb
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\213043_MidExam.genruntimeconfig.cache
+C:\Users\213043\source\repos\213043_MidExam\213043_MidExam\obj\Debug\net6.0-windows\ref\213043_MidExam.dll
